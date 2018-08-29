@@ -3,20 +3,20 @@
     <channel>
         <title>Quotes</title>
         <description>Selection of quotes</description>
-        <link>http://example.com/</link>
+        <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
 
         <item>
-            <title>Failure is simply the opportunity to begin again, this time more intelligently. </title>
-            <description>Henry Ford</description>
-            <link>http://example.com/</link>
-            <pubDate>Thu, 01 Jan 63 01:00:01 +0100</pubDate>
-            <comments>Date is way off</comments>
+            <title>... You have to build up the reasoning from the ground up—“from the first principles” is the phrase that’s used in physics. You look at the fundamentals and construct your reasoning from that, and then you see if you have a conclusion that works or doesn’t work, and it may or may not be different from what people have done in the past.5</title>
+            <description>Elon Musk</description>
+            <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
+            <pubDate>Fri, 06 Nov 2015 09:00:00 +0100 </pubDate>
+            <comments>Date estimated</comments>
         </item>
 
         <item>
             <title>In order to form an immaculate member of a flock of sheep one must, above all, be a sheep.</title>
             <description>Albert Einstein</description>
-            <link>http://example.com/</link>
+            <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
             <pubDate>Wed, 01 Jan 1879 01:00:01 +0100</pubDate>
             <comments>Date is way off</comments>
         </item>
@@ -24,8 +24,16 @@
         <item>
             <title>Every sentence I utter must be understood not as an affirmation, but as a question.</title>
             <description>Niels Bohr</description>
-            <link>http://example.com/</link>
+            <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
             <pubDate>Thu, 01 Jan 1885 01:00:00 +0100</pubDate>
+            <comments>Date is way off</comments>
+        </item>
+
+        <item>
+            <title>Failure is simply the opportunity to begin again, this time more intelligently. </title>
+            <description>Henry Ford</description>
+            <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
+            <pubDate>Thu, 01 Jan 63 01:00:01 +0100</pubDate>
             <comments>Date is way off</comments>
         </item>
     </channel>
