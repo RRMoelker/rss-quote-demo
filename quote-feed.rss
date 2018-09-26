@@ -36,5 +36,12 @@
             <pubDate>Thu, 01 Jan 63 01:00:01 +0100</pubDate>
             <comments>Date is way off</comments>
         </item>
+
+        <item>
+            <title>Some people are bigger than society. Most of us are not. For most of us, society’s rules are our rules, ...</title>
+            <description>Tim Urban</description>
+            <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
+            <pubDate>Thu, 01 Sep 16 01:00:01 +0100</pubDate>
+        </item>
     </channel>
 </rss>
