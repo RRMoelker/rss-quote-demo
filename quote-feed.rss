@@ -43,5 +43,13 @@
             <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
             <pubDate>Thu, 01 Sep 16 01:00:01 +0100</pubDate>
         </item>
+
+        <item>
+            <title>The thing is anybody can be happy and cozy. Nothing good happens in the world by being happy and cozy.</title>
+            <description>Alex Honnold</description>
+            <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
+            <pubDate>Fri, 14 Dec 2018 00:00:00 PST</pubDate>
+            <comments>Date is documentary release date</comments>
+        </item>        
     </channel>
 </rss>
