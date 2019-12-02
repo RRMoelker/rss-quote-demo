@@ -50,6 +50,17 @@
             <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
             <pubDate>Fri, 14 Dec 2018 00:00:00 PST</pubDate>
             <comments>Date is documentary release date</comments>
-        </item>        
+        </item>
+        
+        <item>
+            <title>It should be borne in mind that there is nothing more difficult to arange, more doubtful of success, and more dangerous to carry through than initiating change.
+            
+                The innovator makes enemies of all those who prospered under the old order, and only lukewarm support is forthcoming from those who would propser under the new.
+            </title>
+            <description>Niccolò Machiavelli</description>
+            <link>https://raw.githubusercontent.com/RRMoelker/rss-quote-demo/master/quote-feed.rss</link>
+            <pubDate>Sat, 01 Jan 1513 01:00:00 CET</pubDate>
+            <comments>Release year of puslished quote</comments>
+        </item>  
     </channel>
 </rss>
